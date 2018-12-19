@@ -1,3 +1,3 @@
 # project treehouse
 
-se está creando una web basada en una plantilla encontrada en la web
+se está creando una web basada en una plantilla encontrada en la web, se sigue avanzando en el proyecto 
