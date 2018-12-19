@@ -49,6 +49,7 @@
     top: 70%;
     left: 50%;
     transform: translateX(-50%);
+    font-size: 1.3rem;
 }
 
 .main_container_title {
@@ -137,4 +138,47 @@
 .main_container_relax_info_button {
     position: relative;
     top: -10px;
+}
+
+.main_container_project {
+    position: relative;
+    top: 250px;
+    text-align: center;
+}
+
+.main_container_project_title {
+    font-size: 2.5rem;
+}
+
+.main_container_project_paragraph {
+    position: relative;
+    top: -30px;
+}
+
+.main_container_developing {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 350px;
+    height: 600px;
+    overflow: hidden;
+}
+
+.main_container_developing_img {
+    width: 50%;
+}
+
+.main_container_developing_info {
+    background-color: steelblue;
+    width: 50%;
+    position: relative;
+    left: 5%;
+}
+
+.main_container_developing_info_main_title {
+    font-size: 1.5rem;
+}
+
+.main_container_developing_info_main_paragraph {
+    font-size: 0.9rem;
 }
