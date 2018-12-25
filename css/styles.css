@@ -169,7 +169,6 @@
 }
 
 .main_container_developing_info {
-    background-color: steelblue;
     width: 50%;
     position: relative;
     left: 5%;
@@ -181,4 +180,20 @@
 
 .main_container_developing_info_main_paragraph {
     font-size: 0.9rem;
+    line-height: 18px;
 }
+
+.main_container_developing_info_container_basket, .main_container_developing_info_container_laptop, .main_container_developing_info_container_locked {
+    display: flex;
+}
+
+.main_container_developing_info_container_basket_content,.main_container_developing_info_container_laptop_content, .main_container_developing_info_container_locked_content {
+    position: relative; 
+    top: 15px;
+}
+
+.main_container_developing_info_container_basket_paragraph, .main_container_developing_info_container_laptop_paragraph, .main_container_developing_info_container_locked_paragraph {
+    font-size: .8rem;
+}
+
+
